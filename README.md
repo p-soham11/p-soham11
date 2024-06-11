@@ -71,7 +71,7 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
 <div align="center">
   <h4>Github Stats ⚡</h4>
 
-  <a href="#">![Stats](https://github-readme-streak-stats.herokuapp.com/?user=p-soham11&theme=dark&card_width=480&card_height=165)</a>
+  <a href="#">![Stats](https://github-readme-streak-stats.herokuapp.com/?user=p-soham11&theme=tokyonight&hide_border=true&card_width=480&card_height=165)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-soham11&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   
 </div>
