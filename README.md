@@ -23,6 +23,8 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
  </div>
 
 <div align="center">
+
+
   
  <h3> 🛠️: Languages & Tools :</h3>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React_Js" alt="React_Js" width="45" height="55"/>&nbsp;
@@ -34,13 +36,16 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" title="npm" alt="npm" width="45" height="55"/>&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="ExpressJS" alt="ExpressJS" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="45" height="55"/>&nbsp;
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootsTrap" alt="BootsTrap" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="sass" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="45" height="55"/>&nbsp;
 
@@ -63,11 +68,12 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
 </a>
 
 
-
 <div align="center">
   <h4>Github Stats ⚡</h4>
 
-  <a href="#">![Stats](https://github-readme-streak-stats.herokuapp.com/?user=p-soham11&card_width=480&card_height=165)</a>
+  <a href="#">![Stats](https://github-readme-streak-stats.herokuapp.com/?user=p-soham11&theme=dark&card_width=480&card_height=165)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-soham11&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   
 </div>
+
+<div align="center"><a href=# ><img src="contributions.svg"></a> </div>
