@@ -42,6 +42,7 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="45" height="55"/>&nbsp;
 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" title="JQuery" alt="JQuery" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootsTrap" alt="BootsTrap" width="45" height="55"/>&nbsp;
