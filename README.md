@@ -17,7 +17,7 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
  
 - 🔭 I’m currently looking for **a fulltime job** and am working as **a freelancer**
 - 🌱 I’m currently learning **Next.JS**
-- 💬 Ask me about **React, TypeScript, Node.JS... or Brain Teasers**
+- 💬 Ask me about **React, TypeScript, Node.JS or Brain Teasers** maybe!
 - ⚡ Fun fact: **Motorcycle riders are like software engineers? Both debug their problems by "crashing" and rebooting!**
 
  </div>
