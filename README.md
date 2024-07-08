@@ -64,7 +64,7 @@ I thrive on coding and exploring new technologies—always eager to debug, devel
 <a href="https://www.linkedin.com/in/palsoham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://x.com/p_soham11" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 <a href="https://www.instagram.com/sohahaham.pal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-<a href="https://p-soham11.github.io/portfolio/" target="_blank">
+<a href="https://sohampal.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
 
